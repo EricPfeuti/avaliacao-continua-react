@@ -1,4 +1,5 @@
 # AC - Internet Web Design
+- Feito por: Eric Pfeuti
 - Projetos feito em React para avaliação contínua da escola;
 - Jogo de Reflexo;
 - Luzes de Largada;
